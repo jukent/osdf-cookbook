@@ -16,8 +16,7 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Authors
 
-[Harsha Hampapura](https://github.com/hrhampapura), [](https://github.com/second-author2), etc. _Acknowledge primary content authors here_
-
+[Harsha Hampapura](https://github.com/hrhampapura)
 ### Contributors
 
 <a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
