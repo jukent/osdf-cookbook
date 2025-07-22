@@ -27,19 +27,19 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 (State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
 
-### Chapter 1 OSDF fundamentals
+### OSDF fundamentals
 
 (Add content for this section, e.g., "The foundational content includes ... ")
 
-### Chapter 2 Example workflows - NCAR's Research Data Archive datasets
+### Example workflows - NCAR's Research Data Archive datasets
 
 This section includes examples 
 
-### Chapter 3 Example workflows - Envistor datasets
+### Example workflows - Envistor datasets
 
-### Chapter 4 Example workflows - NOAA SONAR fisheries dataset
+### Example workflows - NOAA SONAR fisheries dataset
 
-### Chapter 5 Example workflows - Sentinel data from AWS
+### Example workflows - Sentinel data from AWS
 
 ## Running the Notebooks
 
