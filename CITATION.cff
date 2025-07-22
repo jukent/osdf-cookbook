@@ -7,6 +7,11 @@ authors:
     orcid: https://orcid.org/0000-0002-9961-3821 # optional
     website: https://github.com/brian-rose # optional
     affiliation: University at Albany (State University of New York) # optional
+  - family-names: Kent
+    given-names: Julia
+    orcid: https://orcid.org/0000-0002-5611-8986
+    website: https://github.com/jukent
+    affiliation: UCAR/NCAR
   - family-names: Hampapura
     given-names: Harsha .R.
     orcid: https://orcid.org/my-orcid?orcid=0000-0002-2449-9032  # optional
