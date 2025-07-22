@@ -31,9 +31,15 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 (Add content for this section, e.g., "The foundational content includes ... ")
 
-### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
+### Section 2 Example workflows - NCAR's Research Data Archive datasets
 
-(Add content for this section, e.g., "Example workflows include ... ")
+This section includes examples 
+
+### Section 3 Example workflows - Envistor datasets
+
+### Section 4 Example workflows - NOAA SONAR fisheries dataset
+
+### Section 5 Example workflows - Sentinel data from AWS
 
 ## Running the Notebooks
 
