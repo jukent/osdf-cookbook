@@ -7,15 +7,6 @@ authors:
     orcid: https://orcid.org/0000-0002-9961-3821 # optional
     website: https://github.com/brian-rose # optional
     affiliation: University at Albany (State University of New York) # optional
-  - family-names: Hampapura
-    given-names: Harsha Ramesh
-    orcid: https://orcid.org/0000-0002-9961-3821
-    affiliation: NSF NCAR 
-  - family-names: Kent
-    given-names: Julia
-    orcid: https://orcid.org/0000-0002-5611-8986
-    website: https://github.com/jukent
-    affiliation: UCAR/NCAR
   - name: "Cookbook Template contributors" # use the 'name' field to acknowledge organizations
     website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
 title: "Cookbook Template"
