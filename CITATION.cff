@@ -2,22 +2,15 @@ cff-version: 1.2.0
 message: "If you use this cookbook, please cite it as below."
 authors:
   # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
-  - family-names: Rose
-    given-names: Brian E. J.
-    orcid: https://orcid.org/0000-0002-9961-3821 # optional
-    website: https://github.com/brian-rose # optional
-    affiliation: University at Albany (State University of New York) # optional
-  - family-names: Kent
-    given-names: Julia
-    orcid: https://orcid.org/0000-0002-5611-8986
-    website: https://github.com/jukent
-    affiliation: UCAR/NCAR
-  - family-names: Hampapura
-    given-names: Harsha .R.
-    orcid: https://orcid.org/my-orcid?orcid=0000-0002-2449-9032  # optional
-    website: https://github.com/hrhampapura # optional
-    affiliation: NCAR# optional
-  - name: "Cookbook Template contributors" # use the 'name' field to acknowledge organizations
-    website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
-title: "Cookbook Template"
-abstract: "A sample cookbook description."
+  - family-names: Hoelzemann
+    given-names: Alexander
+    orcid: https://orcid.org/0000-0001-6509-0009
+    website: https://github.com/ahoelzemann
+    affiliation: University of Colorado Boulder
+  - family-names: Klucik
+    given-names: Rudolf
+    orcid: https://orcid.org/XXXX-XXXX-XXXX-XXXX # Rudy, please add your ORCID here.
+    website: https://github.com/oftfrfbf
+    affiliation: NOAA
+title: "SonarAI contribution to the Pythia Hackathon 2025, Boulder Colorado"
+abstract: "Integrating contextual data into the SonarAI workflow.... tbd"
