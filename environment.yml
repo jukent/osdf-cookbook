@@ -2,8 +2,16 @@ name: cookbook-dev
 channels:
   - conda-forge
 dependencies:
+  - python=3.12
   - jupyterlab
   - mystmd
   - jupyterlab-myst
   - bash_kernel
   - pelicanplatform
+  - OpenVisus==2.2.141
+  - panel
+  - bokeh
+  - xmltodict
+  - boto3
+  - basemap
+  - pelicanfs
