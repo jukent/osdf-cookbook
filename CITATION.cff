@@ -25,11 +25,13 @@ authors:
     orcid: https://orcid.org/my-orcid?orcid=0009-0001-0067-6540
     website: https://github.com/turetske
     affiliation: Morgridge Institute For Research  
+
   - family-names: Wingert Barok
     given-names: Amandha
     orcid: https://orcid.org/my-orcid?orcid=0009-0001-3391-3741
     website: https://github.com/amandhawb
     affiliation: Florida International University  
+
   - family-names: Bockelman
     given-names: Brian
     orcid: "https://orcid.org/0000-0003-2981-3809"
@@ -44,3 +46,4 @@ authors:
     website: "https://github.com/ProjectPythia/osdf-cookbook/graphs/contributors"
 title: "OSDF Cookbook"
 abstract: "A sample cookbook description."
+
