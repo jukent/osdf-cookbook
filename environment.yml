@@ -5,3 +5,9 @@ dependencies:
   - jupyterlab
   - mystmd
   - jupyterlab-myst
+  - OpenVisus==2.2.141
+  - panel
+  - bokeh
+  - xmltodict
+  - boto3
+  - basemap
