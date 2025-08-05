@@ -6,7 +6,8 @@ dependencies:
   - jupyterlab
   - mystmd
   - jupyterlab-myst
-  - OpenVisus==2.2.141
+  # Note: OpenVisus not available on conda-forge currently; disable for now.
+  #- OpenVisus==2.2.141
   - panel
   - bokeh
   - xmltodict
