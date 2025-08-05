@@ -2,7 +2,6 @@ cff-version: 1.2.0
 message: "If you use this cookbook, please cite it as below."
 authors:
   # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
-
 title: "OSDF Cookbook"
  - family-names: Hampapura
     given-names: Harsha .R.
@@ -42,7 +41,6 @@ title: "OSDF Cookbook"
     orcid: https://orcid.org/0009-0003-2993-0308
     website: https://github.com/jhiemstrawisc
     affiliation: Center for High Throughput Computing
-
   - name: "OSDF cookbook contributors" # use the 'name' field to acknowledge organizations
     website: "https://github.com/ProjectPythia/osdf-cookbook/graphs/contributors"
 abstract: "A sample cookbook description."
