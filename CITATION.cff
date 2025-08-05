@@ -1,11 +1,46 @@
 cff-version: 1.2.0
 message: "If you use this cookbook, please cite it as below."
 authors:
-  # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
-  - family-names: Panta
+# add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
+ - family-names: Hampapura
+    given-names: Harsha .R.
+    orcid: https://orcid.org/my-orcid?orcid=0000-0002-2449-9032  
+    website: https://github.com/hrhampapura
+    affiliation: NCAR
+ - family-names: Panta
     given-names: Aashish
     orcid: https://orcid.org/0009-0001-5843-2098
-    affiliation: CEDMAV, University at Utah
-
-title: "OSDF Cookbook Example"
+    affiliation: CEDMAV, University at Utah    
+  - family-names: Schuster
+    given-names: Douglas
+    orcid: https://orcid.org/0000-0003-0448-3591 # optional
+    affiliation: NSF National Center for Atmospheric Reserach # optional    
+  - family-names: Kent
+    given-names: Julia
+    orcid: https://orcid.org/0000-0002-5611-8986
+    website: https://github.com/jukent
+    affiliation: UCAR/NCAR    
+  - family-names: Turetsky
+    given-names: Emma T.
+    orcid: https://orcid.org/my-orcid?orcid=0009-0001-0067-6540
+    website: https://github.com/turetske
+    affiliation: Morgridge Institute For Research  
+  - family-names: Wingert Barok
+    given-names: Amandha
+    orcid: https://orcid.org/my-orcid?orcid=0009-0001-3391-3741
+    website: https://github.com/amandhawb
+    affiliation: Florida International University  
+  - family-names: Bockelman
+    given-names: Brian
+    orcid: "https://orcid.org/0000-0003-2981-3809"
+    website: "https://github.com/bbockelm"
+    affiliation: Morgridge Institute for Research
+  - family-names: Hiemstra
+    given-names: Justin T
+    orcid: https://orcid.org/0009-0003-2993-0308
+    website: https://github.com/jhiemstrawisc
+    affiliation: Center for High Throughput Computing
+  - name: "OSDF cookbook contributors" # use the 'name' field to acknowledge organizations
+    website: "https://github.com/ProjectPythia/osdf-cookbook/graphs/contributors"
+title: "OSDF Cookbook"
 abstract: "A sample cookbook description."
