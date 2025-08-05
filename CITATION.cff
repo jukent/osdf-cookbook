@@ -4,6 +4,12 @@ authors:
   # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
 
 title: "OSDF Cookbook"
+ - family-names: Hampapura
+    given-names: Harsha .R.
+    orcid: https://orcid.org/my-orcid?orcid=0000-0002-2449-9032  
+    website: https://github.com/hrhampapura
+    affiliation: NCAR
+
  - family-names: Panta
     given-names: Aashish
     orcid: https://orcid.org/0009-0001-5843-2098
@@ -19,12 +25,12 @@ title: "OSDF Cookbook"
     orcid: https://orcid.org/0000-0002-5611-8986
     website: https://github.com/jukent
     affiliation: UCAR/NCAR
-    
-  - family-names: Hampapura
-    given-names: Harsha .R.
-    orcid: https://orcid.org/my-orcid?orcid=0000-0002-2449-9032 
-    website: https://github.com/hrhampapura 
-    affiliation: NCAR 
+      
+  - family-names: Turetsky
+    given-names: Emma T.
+    orcid: https://orcid.org/my-orcid?orcid=0009-0001-0067-6540
+    website: https://github.com/turetske
+    affiliation: Morgridge Institute For Research
     
   - family-names: Wingert Barok
     given-names: Amandha
