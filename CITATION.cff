@@ -13,9 +13,14 @@ authors:
     affiliation: UCAR/NCAR
   - family-names: Hampapura
     given-names: Harsha .R.
-    orcid: https://orcid.org/my-orcid?orcid=0000-0002-2449-9032  # optional
-    website: https://github.com/hrhampapura # optional
-    affiliation: NCAR# optional
+    orcid: https://orcid.org/my-orcid?orcid=0000-0002-2449-9032 
+    website: https://github.com/hrhampapura 
+    affiliation: NCAR 
+  - family-names: Wingert Barok
+    given-names: Amandha
+    orcid: https://orcid.org/my-orcid?orcid=0009-0001-3391-3741
+    website: https://github.com/amandhawb
+    affiliation: Florida International University
   - family-names: Bockelman
     given-names: Brian
     orcid: "https://orcid.org/0000-0003-2981-3809"
