@@ -1,4 +1,4 @@
-name: cookbook-dev
+name: osdf-cookbook
 channels:
   - conda-forge
 dependencies:
