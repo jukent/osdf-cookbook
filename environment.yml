@@ -27,6 +27,7 @@ dependencies:
   - hvplot
   - plotly
   - zarr
+  - s3fs
   - h5netcdf
   - pip:
       - OpenVisus
