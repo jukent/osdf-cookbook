@@ -8,8 +8,8 @@ dependencies:
   - jupyterlab-myst
   - aiohttp
   - bash_kernel
-  - intake
-  - intake-esm
+  - intake=0.7.0
+  - intake-esm=2024.2.6
   - pelicanplatform
   - panel
   - bokeh
