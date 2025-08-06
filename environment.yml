@@ -8,11 +8,12 @@ dependencies:
   - jupyterlab-myst
   - bash_kernel
   - pelicanplatform
-  # Note: OpenVisus not available on conda-forge currently; disable for now.
-  #- OpenVisus==2.2.141
+  - pip
   - panel
   - bokeh
   - xmltodict
   - boto3
   - basemap
   - pelicanfs
+  - pip:
+      - OpenVisus
