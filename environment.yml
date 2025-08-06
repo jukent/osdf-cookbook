@@ -11,6 +11,7 @@ dependencies:
   - panel
   - bokeh
   - xmltodict
+  - colorcet
   - boto3
   - basemap
   - pelicanfs=1.2.1
@@ -24,5 +25,7 @@ dependencies:
   - dask-jobqueue
   - pip
   - pip:
-      - igwn-auth-utils==1.4.0
       - OpenVisus
+      - openvisuspy
+      - igwn-auth-utils==1.4.0
+

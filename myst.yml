@@ -42,7 +42,7 @@ project:
         - file: notebooks/05_pycogss_spectral_change.ipynb
     - title: OpenVISUS examples
       children:
-        - file: notebooks/06_pelican_LLC4320.ipynb
+        - file: notebooks/06_pelican_ocean_llc4320.ipynb
     - title: Appendix
       children:
         - file: notebooks/notebook-template.ipynb    
