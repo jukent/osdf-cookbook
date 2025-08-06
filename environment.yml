@@ -12,8 +12,10 @@ dependencies:
   - panel
   - bokeh
   - xmltodict
+  - colorcet
   - boto3
   - basemap
   - pelicanfs
   - pip:
       - OpenVisus
+      - openvisuspy
