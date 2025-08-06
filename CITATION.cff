@@ -55,6 +55,11 @@ authors:
     orcid: https://orcid.org/0009-0002-6453-2412
     website: https://github.com/rpconroy
     affiliation: NSF/NCAR
+  - family-names: Koech
+    given-names: Kibiwott
+    orcid: https://orcid.org/0009-0004-3919-9739
+    website: https://github.com/kkbch
+    affiliation: W&M
   - name: "OSDF cookbook contributors" # use the 'name' field to acknowledge organizations
     website: "https://github.com/ProjectPythia/osdf-cookbook/graphs/contributors"
 title: "OSDF Cookbook"
