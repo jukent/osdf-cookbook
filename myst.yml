@@ -33,7 +33,7 @@ project:
         - file: notebooks/02_conus404.ipynb
     - title: Envistor examples
       children:
-        - file: notebooks/notebook-template.ipynb
+        - file: notebooks/03_EnviStor_Foundations.ipynb
     - title: NOAA SONAR data examples
       children:
         - file: notebooks/04_foundations.ipynb
