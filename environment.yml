@@ -6,7 +6,10 @@ dependencies:
   - jupyterlab
   - mystmd
   - jupyterlab-myst
+  - aiohttp
   - bash_kernel
+  - intake
+  - intake-esm
   - pelicanplatform
   - panel
   - bokeh
@@ -28,6 +31,8 @@ dependencies:
   - plotly
   - zarr
   - s3fs
+  - seaborn
+  - tqdm
   - h5netcdf
   - pip:
       - OpenVisus
