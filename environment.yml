@@ -24,6 +24,8 @@ dependencies:
   - dask
   - dask-jobqueue
   - pip
+  - hvplot
+  - plotly
   - pip:
       - OpenVisus
       - openvisuspy
