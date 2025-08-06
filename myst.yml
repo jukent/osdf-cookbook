@@ -13,9 +13,38 @@ project:
     - title: Preamble
       children:
         - file: notebooks/how-to-cite.md
-    - title: Introduction
+    - title: Introduction to OSDF
       children:
         - file: notebooks/notebook-template.ipynb
+        - file: notebooks/01_osdf_intro.ipynb
+    - title: NCAR examples
+      children:
+        - file: notebooks/02_ncar_intro.ipynb
+        - file: notebooks/02_cesm2.ipynb
+        - file: notebooks/02_conus404.ipynb
+    - title: Envistor examples
+      children:
+        - file: notebooks/notebook-template.ipynb
+    - title: NOAA SONAR data examples
+      children:
+        - file: notebooks/04_foundations.ipynb
+        - file: notebooks/04_init_datasets.ipynb
+     - title: PYCOGSS examples
+       children:
+        - file: notebooks/05_pycogss_spectral_change.ipynb
+     - title: OpenVISUS examples
+       children:
+        - file: notebooks/06_pelican_LLC4320.ipynb
+     - title: Appendix
+       children:
+        - file: notebooks/notebook-template.ipynb
+     
+     
+        
+      
+       
+      
+      
   jupyter:
       binder:
         repo: projectpythia/cookbook-template
