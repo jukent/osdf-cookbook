@@ -3,19 +3,49 @@ version: 1
 extends:
   - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
 project:
-  title: Project Pythia Cookbook Template
-  github: https://github.com/projectpythia/cookbook-template
+  title: OSDF Cookbook 
+  github: https://github.com/projectpythia/osdf-cookbook
   authors:
-    - name: The Project Pythia Community
+    - name: Harsha R. Hampapura
+    - name: Brian Bockelman
+    - name: Alexander Hoelzeman
+    - name: Emma Turetsky 
+    - name: Amandha Wingert Barok
+    - name: Aashish Panta
+    - name: Justin Hiemstra
+    - name: Douglas Schuster
+    - name: Kibiwott Koech
   copyright: '2024'
   toc:
     - file: README.md
     - title: Preamble
       children:
         - file: notebooks/how-to-cite.md
-    - title: Introduction
+    - title: Introduction to OSDF
       children:
         - file: notebooks/notebook-template.ipynb
+        - file: notebooks/01_osdf_intro.ipynb
+    - title: NCAR examples
+      children:
+        - file: notebooks/notebook-template.ipynb
+        - file: notebooks/02_cesm2.ipynb
+        - file: notebooks/02_conus404.ipynb
+    - title: Envistor examples
+      children:
+        - file: notebooks/notebook-template.ipynb
+    - title: NOAA SONAR data examples
+      children:
+        - file: notebooks/04_foundations.ipynb
+        - file: notebooks/04_init_datasets.ipynb
+    - title: PYCOGSS examples
+      children:
+        - file: notebooks/05_pycogss_spectral_change.ipynb
+    - title: OpenVISUS examples
+      children:
+        - file: notebooks/06_pelican_ocean_llc4320.ipynb
+    - title: Appendix
+      children:
+        - file: notebooks/notebook-template.ipynb    
   jupyter:
       binder:
-        repo: projectpythia/cookbook-template
+        repo: projectpythia/osdf-cookbook
