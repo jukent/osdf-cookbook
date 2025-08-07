@@ -35,6 +35,7 @@ dependencies:
   - tqdm
   - h5netcdf
   - pip:
+      - import-ipynb
       - OpenVisus
       - openvisuspy
       - igwn-auth-utils==1.4.0
