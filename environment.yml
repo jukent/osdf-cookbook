@@ -36,6 +36,7 @@ dependencies:
   - h5netcdf
   - pip:
       - import-ipynb
+      - kerchunk
       - OpenVisus
       - openvisuspy
       - igwn-auth-utils==1.4.0
