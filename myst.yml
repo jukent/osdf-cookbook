@@ -12,8 +12,9 @@ project:
     - name: Emma Turetsky 
     - name: Amandha Wingert Barok
     - name: Aashish Panta
-    - name: Justin Hiemstra
+    - name: Riley Conroy
     - name: Douglas Schuster
+    - name: Justin Hiemstra
     - name: Kibiwott Koech
   copyright: '2024'
   toc:
@@ -27,12 +28,13 @@ project:
         - file: notebooks/01_osdf_intro.ipynb
     - title: NCAR examples
       children:
-        - file: notebooks/notebook-template.ipynb
-        - file: notebooks/02_cesm2.ipynb
+        - file: notebooks/02_ncar_intro.ipynb
+        - file: notebooks/02_cesm2_lens.ipynb
+        - file: notebooks/02_cmip6_gmst.ipynb
         - file: notebooks/02_conus404.ipynb
     - title: Envistor examples
       children:
-        - file: notebooks/notebook-template.ipynb
+        - file: notebooks/03_EnviStor_Foundations.ipynb
     - title: NOAA SONAR data examples
       children:
         - file: notebooks/04_foundations.ipynb
@@ -42,7 +44,10 @@ project:
         - file: notebooks/05_pycogss_spectral_change.ipynb
     - title: OpenVISUS examples
       children:
-        - file: notebooks/06_pelican_ocean_llc4320.ipynb
+        - file: notebooks/06_introduction_to_NSDF_OpenVISUS.ipynb
+        - file: notebooks/06_ocean_llc4320_visualization.ipynb
+        - file: notebooks/06_ocean_llc2160_visualization.ipynb
+        - file: notebooks/06_atmosphere_llc2160_visualization.ipynb
     - title: Appendix
       children:
         - file: notebooks/notebook-template.ipynb    

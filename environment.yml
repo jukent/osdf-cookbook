@@ -2,11 +2,14 @@ name: osdf-cookbook
 channels:
   - conda-forge
 dependencies:
-  - python
+  - python=3.12
   - jupyterlab
   - mystmd
   - jupyterlab-myst
+  - aiohttp
   - bash_kernel
+  - intake=0.7.0
+  - intake-esm=2024.2.6
   - pelicanplatform
   - panel
   - bokeh
@@ -24,9 +27,16 @@ dependencies:
   - dask
   - dask-jobqueue
   - pip
-  - seaborn
   - openpyxl
+  - hvplot
+  - plotly
+  - zarr
+  - s3fs
+  - seaborn
+  - tqdm
+  - h5netcdf
   - pip:
+      - import-ipynb
       - OpenVisus
       - openvisuspy
       - igwn-auth-utils==1.4.0

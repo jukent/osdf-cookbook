@@ -1,6 +1,6 @@
 # OSDF Cookbook
 
-<img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
+<img src="thumbnails/OSDF_OSPool_Logos.png" alt="thumbnail" width="300"/>
 
 [![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
@@ -19,9 +19,8 @@ such as the OSG's [OSPool](https://osg-htc.org/ospool).
 This cookbook gives motivating use cases from the geoscience community, including using datasets from NSF NCAR's [Research Data Archive](https://rda.ucar.edu/) (RDA) and the datasets of AWS [OpenData](https://aws.amazon.com/opendata/).
 
 ## Authors
-
-[Brian Bockelman](https://github.com/bbockelm)
 [Harsha R. Hampapura](https://github.com/hrhampapura)
+[Brian Bockelman](https://github.com/bbockelm)
 [Alexander Hoelzeman](https://github.com/ahoelzemann)
 [Emma Turetsky](https://github.com/turetske)
 [Amandha Wingert Barok](https://github.com/amandhawb)
@@ -49,8 +48,7 @@ What is the OSDF?  Who supports it? How can it benefit from my science?  A dive 
 
 ### Using datasets from NCAR's Research Data Archive
 
-The Research Data Archive is NCAR's centrally-run archive, making decades of federally-funded earth systems data available.
-Learn how to use common data science tools when streaming from the RDA.
+NSF NCAR's [Research Data Archive](https://rda.ucar.edu/) (RDA) contains a large collection of meteorological, atmospheric composition, and oceanographic observations, and operational and reanalysis model outputs, integrated with NSF NCAR High Performance Compute services to support atmospheric and geosciences research. This chapter demonstrates how to use common data science tools when streaming from the RDA.
 
 ### Using datasets from FIU's Envistor
 
