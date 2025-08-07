@@ -34,8 +34,8 @@ dependencies:
   - seaborn
   - tqdm
   - h5netcdf
-  - import-ipynb
   - pip:
+      - import-ipynb
       - OpenVisus
       - openvisuspy
       - igwn-auth-utils==1.4.0
