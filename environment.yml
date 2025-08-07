@@ -14,11 +14,13 @@ dependencies:
   - panel
   - bokeh
   - xmltodict
+  - cartopy
   - colorcet
   - boto3
   - basemap
   - pelicanfs=1.2.1
   - matplotlib
+  - metpy
   - pandas
   - xarray
   - geopandas
@@ -30,14 +32,13 @@ dependencies:
   - openpyxl
   - hvplot
   - plotly
-  - zarr
+  - zarr=2.18.1
   - s3fs
   - seaborn
   - tqdm
   - h5netcdf
+  - igwn-auth-utils=1.4.0
   - pip:
       - import-ipynb
       - OpenVisus
       - openvisuspy
-      - igwn-auth-utils==1.4.0
-
