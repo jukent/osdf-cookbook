@@ -138,3 +138,6 @@ dmypy.json
 .vscode/
 # .idea files
 .idea
+
+# Ignore files downloaded as part of notebook calculations
+**/test_region2.npy
