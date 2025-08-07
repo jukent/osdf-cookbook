@@ -27,6 +27,7 @@ dependencies:
   - dask
   - dask-jobqueue
   - pip
+  - openpyxl
   - hvplot
   - plotly
   - zarr
