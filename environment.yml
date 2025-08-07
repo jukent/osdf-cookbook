@@ -24,6 +24,8 @@ dependencies:
   - dask
   - dask-jobqueue
   - pip
+  - seaborn
+  - openpyxl
   - pip:
       - OpenVisus
       - openvisuspy
