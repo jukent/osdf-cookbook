@@ -140,4 +140,4 @@ dmypy.json
 .idea
 
 # Ignore files downloaded as part of notebook calculations
-**/test_region2.npy
+**/*.npy
