@@ -24,8 +24,8 @@ project:
         - file: notebooks/how-to-cite.md
     - title: Introduction to OSDF
       children:
-        - file: notebooks/notebook-template.ipynb
         - file: notebooks/01_osdf_intro.ipynb
+        - file: notebooks/01_pelicanfs.ipynb
     - title: NCAR examples
       children:
         - file: notebooks/02_ncar_intro.ipynb
