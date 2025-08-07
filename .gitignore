@@ -139,3 +139,6 @@ dmypy.json
 
 # Ignore files downloaded as part of notebook calculations
 **/rib.20250319.0400.bz2
+
+# .idea files
+.idea
