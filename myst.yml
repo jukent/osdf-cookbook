@@ -36,8 +36,8 @@ project:
         - file: notebooks/03_EnviStor_Technical.ipynb
     - title: NOAA SONAR data examples
       children:
-        - file: notebooks/04_foundations.ipynb
-        - file: notebooks/04_init_datasets.ipynb
+        - file: notebooks/04_SonarAI_Foundations.ipynb
+        - file: notebooks/04_SonarAI_Technical.ipynb
     - title: PYCOGSS examples
       children:
         - file: notebooks/05_pycogss_spectral_change.ipynb
@@ -48,6 +48,7 @@ project:
         - file: notebooks/06_ocean_llc2160_visualization.ipynb
         - file: notebooks/06_atmosphere_llc2160_visualization.ipynb
     - title: Appendix 
+      children:
   jupyter:
       binder:
         repo: projectpythia/osdf-cookbook
