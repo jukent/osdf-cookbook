@@ -47,9 +47,7 @@ project:
         - file: notebooks/06_ocean_llc4320_visualization.ipynb
         - file: notebooks/06_ocean_llc2160_visualization.ipynb
         - file: notebooks/06_atmosphere_llc2160_visualization.ipynb
-    - title: Appendix
-      children:
-        - file: notebooks/notebook-template.ipynb    
+    - title: Appendix 
   jupyter:
       binder:
         repo: projectpythia/osdf-cookbook
