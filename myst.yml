@@ -24,17 +24,16 @@ project:
         - file: notebooks/how-to-cite.md
     - title: Introduction to OSDF
       children:
-        - file: notebooks/notebook-template.ipynb
         - file: notebooks/01_osdf_intro.ipynb
+        - file: notebooks/01_pelicanfs.ipynb
     - title: NCAR examples
       children:
         - file: notebooks/02_ncar_intro.ipynb
-        - file: notebooks/02_cesm2_lens.ipynb
         - file: notebooks/02_cmip6_gmst.ipynb
-        - file: notebooks/02_conus404.ipynb
     - title: Envistor examples
       children:
         - file: notebooks/03_EnviStor_Foundations.ipynb
+        - file: notebooks/03_EnviStor_Technical.ipynb
     - title: NOAA SONAR data examples
       children:
         - file: notebooks/04_foundations.ipynb
