@@ -40,6 +40,5 @@ dependencies:
   - igwn-auth-utils=1.4.0
   - pip:
       - import-ipynb
-      - kerchunk
       - OpenVisus
       - openvisuspy
