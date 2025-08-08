@@ -42,3 +42,4 @@ dependencies:
       - import-ipynb
       - OpenVisus
       - openvisuspy
+      - cf-units
