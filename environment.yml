@@ -16,6 +16,7 @@ dependencies:
   - xmltodict
   - cartopy
   - colorcet
+  - cf-units
   - boto3
   - basemap
   - pelicanfs=1.2.1
@@ -42,4 +43,3 @@ dependencies:
       - import-ipynb
       - OpenVisus
       - openvisuspy
-      - cf-units
