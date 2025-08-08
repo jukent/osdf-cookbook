@@ -22,6 +22,7 @@ This cookbook gives motivating use cases from the geoscience community, includin
 [Harsha R. Hampapura](https://github.com/hrhampapura)
 [Brian Bockelman](https://github.com/bbockelm)
 [Alexander Hoelzeman](https://github.com/ahoelzemann)
+[Carrie Wall](https://github.com/carriecwall)
 [Emma Turetsky](https://github.com/turetske)
 [Amandha Wingert Barok](https://github.com/amandhawb)
 [Aashish Panta](https://github.com/aashishpanta0)
@@ -29,6 +30,7 @@ This cookbook gives motivating use cases from the geoscience community, includin
 [Douglas Schuster](https://github.com/DCSCHUS)
 [Riley Conroy](https://github.com/rpconroy)
 [Kibiwott Koech](https://github.com/kkbch)
+
 
 
 ### Contributors
