@@ -64,7 +64,7 @@ authors:
     given-names: Kibiwott
     orcid: https://orcid.org/0009-0004-3919-9739
     website: https://github.com/kkbch
-    affiliation: W&M
+    affiliation: College of William and Mary
   - name: "OSDF cookbook contributors" # use the 'name' field to acknowledge organizations
     website: "https://github.com/ProjectPythia/osdf-cookbook/graphs/contributors"
 title: "OSDF Cookbook"
