@@ -29,11 +29,11 @@ project:
     - title: NCAR examples
       children:
         - file: notebooks/02_ncar_intro.ipynb
-        - file: notebooks/02_cesm2_lens.ipynb
         - file: notebooks/02_cmip6_gmst.ipynb
     - title: Envistor examples
       children:
         - file: notebooks/03_EnviStor_Foundations.ipynb
+        - file: notebooks/03_EnviStor_Technical.ipynb
     - title: NOAA SONAR data examples
       children:
         - file: notebooks/04_foundations.ipynb
