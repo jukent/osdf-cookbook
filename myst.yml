@@ -29,6 +29,7 @@ project:
     - title: NCAR examples
       children:
         - file: notebooks/02_ncar_intro.ipynb
+        - file: notebooks/02_cesm2_oceanheat.ipynb
         - file: notebooks/02_cmip6_gmst.ipynb
     - title: Envistor examples
       children:
