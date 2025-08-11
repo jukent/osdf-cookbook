@@ -1,76 +1,84 @@
 cff-version: 1.2.0
 message: "If you use this cookbook, please cite it as below."
 authors:
- # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
- - family-names: Hampapura
-    given-names: Harsha .R.
-    orcid: https://orcid.org/my-orcid?orcid=0000-0002-2449-9032  
+  - family-names: Hampapura
+    given-names: Harsha R.
+    orcid: https://orcid.org/0000-0002-2449-9032
     website: https://github.com/hrhampapura
     affiliation: NCAR
+
   - family-names: Hoelzemann
     given-names: Alexander
     orcid: https://orcid.org/0000-0001-6509-0009
     website: https://github.com/ahoelzemann
     affiliation: University of Colorado Boulder
-  - family-names: Klucik
-    given-names: Rudolf
-    orcid: https://orcid.org/XXXX-XXXX-XXXX-XXXX # Rudy, please add your ORCID here.
-    website: https://github.com/oftfrfbf
-    affiliation: University of Colorado and NOAA
- - family-names: Wall
+
+  - family-names: Wall
     given-names: Carrie
     orcid: https://orcid.org/0000-0002-5315-8528
     website: https://github.com/carriecwall
     affiliation: University of Colorado Boulder and NOAA
- - family-names: Panta
+
+  - family-names: Panta
     given-names: Aashish
     orcid: https://orcid.org/0009-0001-5843-2098
-    affiliation: CEDMAV, University at Utah    
+    affiliation: CEDMAV, University of Utah
+
   - family-names: Schuster
     given-names: Douglas
-    orcid: https://orcid.org/0000-0003-0448-3591 # optional
-    affiliation: NSF National Center for Atmospheric Reserach # optional    
+    orcid: https://orcid.org/0000-0003-0448-3591
+    affiliation: NSF National Center for Atmospheric Research
+
   - family-names: Kent
     given-names: Julia
     orcid: https://orcid.org/0000-0002-5611-8986
     website: https://github.com/jukent
-    affiliation: UCAR/NCAR    
+    affiliation: UCAR/NCAR
+
   - family-names: Turetsky
     given-names: Emma T.
-    orcid: https://orcid.org/my-orcid?orcid=0009-0001-0067-6540
+    orcid: https://orcid.org/0009-0001-0067-6540
     website: https://github.com/turetske
-    affiliation: Morgridge Institute For Research  
+    affiliation: Morgridge Institute for Research
+
   - family-names: Wingert Barok
     given-names: Amandha
-    orcid: https://orcid.org/my-orcid?orcid=0009-0001-3391-3741
+    orcid: https://orcid.org/0009-0001-3391-3741
     website: https://github.com/amandhawb
-    affiliation: Florida International University  
+    affiliation: Florida International University
+
   - family-names: Bockelman
     given-names: Brian
-    orcid: "https://orcid.org/0000-0003-2981-3809"
-    website: "https://github.com/bbockelm"
+    orcid: https://orcid.org/0000-0003-2981-3809
+    website: https://github.com/bbockelm
     affiliation: Morgridge Institute for Research
+
   - family-names: Hiemstra
-    given-names: Justin T
+    given-names: Justin T.
     orcid: https://orcid.org/0009-0003-2993-0308
     website: https://github.com/jhiemstrawisc
     affiliation: Center for High Throughput Computing
+
   - family-names: Conroy
-    given-names: Riley P
+    given-names: Riley P.
     orcid: https://orcid.org/0009-0002-6453-2412
     website: https://github.com/rpconroy
     affiliation: NSF/NCAR
+
   - family-names: Del Vecchio
     given-names: Joanmarie
     orcid: https://orcid.org/0000-0003-3313-6097
     website: https://jmdelvecchio.github.io/
     affiliation: W&M
+
   - family-names: Koech
     given-names: Kibiwott
     orcid: https://orcid.org/0009-0004-3919-9739
     website: https://github.com/kkbch
     affiliation: College of William and Mary
-  - name: "OSDF cookbook contributors" # use the 'name' field to acknowledge organizations
-    website: "https://github.com/ProjectPythia/osdf-cookbook/graphs/contributors"
+
+  - name: OSDF cookbook contributors
+    website: https://github.com/ProjectPythia/osdf-cookbook/graphs/contributors
+
 title: "OSDF Cookbook"
 abstract: "A sample cookbook description."
