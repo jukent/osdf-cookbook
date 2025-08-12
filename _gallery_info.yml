@@ -1,6 +1,13 @@
 thumbnail: cookbook_logo.png
 tags:
   domains:
-    - sampledomain
+    - climate
+    - satellite
+    - atmosphere
+    - ocean
   packages:
-    - samplepackage
+    - intake-esm
+    - matplotlib
+    - dask
+    - xarray
+    - pelicanfs
