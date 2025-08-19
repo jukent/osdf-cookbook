@@ -45,3 +45,4 @@ dependencies:
       - openvisuspy
       - pvlib
       - rioxarray
+      - stackstac
