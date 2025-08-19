@@ -43,7 +43,8 @@ project:
         - file: notebooks/04_SonarAI_Technical.ipynb
     - title: PYCOGSS examples
       children:
-        - file: notebooks/05_pycogss_spectral_change.ipynb
+        - file: notebooks/05_PyCoGSS_Foundations.ipynb
+        - file: notebooks/05_PyCoGSS_SpectralChange_PFS.ipynb
     - title: OpenVISUS examples
       children:
         - file: notebooks/06_introduction_to_NSDF_OpenVISUS.ipynb
