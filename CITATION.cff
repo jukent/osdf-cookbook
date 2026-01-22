@@ -75,4 +75,4 @@ authors:
     website: https://github.com/ProjectPythia/osdf-cookbook/graphs/contributors
 
 title: "OSDF Cookbook"
-abstract: "A sample cookbook description."
+abstract: "This Project Pythia Cookbook covers using the Open Science Data Federation (OSDF), a service for streaming scientific data across the globe."
