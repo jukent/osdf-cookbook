@@ -23,6 +23,8 @@ project:
     - rule: link-resolves
       severity: ignore
       keys:
+        - 'https://doi.org/**'
+        - 'https://zenodo.org/**'
         - 'https://data-osdf.gdex.ucar.edu' # descriptive link, not meant to be followed
   toc:
     - file: README.md
