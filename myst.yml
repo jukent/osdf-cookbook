@@ -19,6 +19,11 @@ project:
     - name: Joanmarie Del Vecchio
     - name: Kibiwott Koech
   copyright: '2024'
+  error_rules:
+    - rule: link-resolves
+      severity: ignore
+      keys:
+        - 'https://data-osdf.gdex.ucar.edu' # descriptive link, not meant to be followed
   toc:
     - file: README.md
     - title: Preamble
