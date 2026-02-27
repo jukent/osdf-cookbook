@@ -34,6 +34,7 @@ dependencies:
   - hvplot
   - plotly
   - zarr=2.18.1
+  - numcodecs=0.12.1
   - s3fs
   - seaborn
   - tqdm
